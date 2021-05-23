@@ -1,0 +1,113 @@
+h1
+{
+	color:#f5ebeb;
+	font-family:'Playfair Display', sans-serif;
+    position:relative;
+    top:10px;   left:400px;
+    
+}
+h2
+{
+	
+	font-size: 30px;
+    
+}
+.bleu
+{
+color:blue
+font-size: 19px;
+font-family:"Arial";
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    font-family:'Playfair Display', sans-serif;
+    font-weight:bold;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+.surlignage
+{
+background-color : #333333;
+}
+.caractere
+{
+    font-family:"Newsreader";	
+    font-weight:"bold";
+}
+.taille
+{
+font-size: 18px;
+font-family:"Arial";
+}
+.alignement
+{
+	color:#f5ebeb;
+	font-family:'Playfair Display', sans-serif;
+    position:relative;
+    top:10px;   left:220px;
+    
+}
+.image
+{
+background-image:(Image/Logo.PNG);
+background-repeat:no-repeat;
+margin:auto;
+position:relative;
+top:10px;   left:530px;
+width: 100px;
+height:100px;
+}
+.texte
+{
+font-size: 19px;
+font-family:"Arial";
+position:relative;
+top:10px;   left:300px;
+}
+.copyright
+{
+font-size: 18px;
+font-family:"Arial";
+}
+.diagram
+{
+font-size: 30px;
+font-family:"sans-serif";
+}
+.logo
+{
+font-size: 19px;
+font-family:"Arial";
+position:relative;
+top:10px;   left:650px;
+}
+.img
+{
+background-image:(Image/Logo.PNG);
+background-repeat:no-repeat;
+margin:auto;
+position:relative;
+top:10px;   left:570px;
+width: 100px;
+height:100px;
+}
